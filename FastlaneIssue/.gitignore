@@ -1,0 +1,5 @@
+.DS_Store
+report.xml
+test_output/report.html
+test_output/report.junit
+../.DS_Store
